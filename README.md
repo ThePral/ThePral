@@ -7,7 +7,9 @@
   <a href="https://www.Instagram.com/__pourya.alizadeh__">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=ThePral&style=flat-square&color=blue" alt=""/>
 
@@ -27,7 +29,7 @@
 - 👨🏻‍💻 A **full-stack** developer
 - 👨🏻‍🏫 An **English** instructor
 - 🎵 A professional **traditional singer**
-- 📫 You can reach me through: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](pouryaalizadeh97@gmail.com)
+- 📫 You can reach me through: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://pouryaalizadeh97@gmail.com)
 
 ---
 
