@@ -22,7 +22,7 @@
 
 ---
 
-### About Me
+### 👀 About Me:
 
 - 🎓 Currently studying **CE** at **Sharif University of Technology**
 - 💻 Interested in **PHP**, **Javascript**, **HTML**, and **CSS**
@@ -58,7 +58,7 @@
 
 ---
 
-### Stats📈
+### 📈 Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThePral&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePral&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
