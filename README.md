@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<a href="#">
+<a href="#" style="cursor: default">
   <img src="https://komarev.com/ghpvc/?username=ThePral&style=flat-square&color=blue" alt=""/>
 </a>
 <h1>Hi, I'm Pourya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> </h1>
