@@ -12,7 +12,9 @@
   </a>
 </div>
 <a href="#" style="cursor: default">
-  <img src="https://komarev.com/ghpvc/?username=ThePral&style=flat-square&color=blue" alt=""/>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=ThePral&style=flat-square&color=blue" alt=""/>
+  </div>
 </a>
 <h1>Hi, I'm Pourya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> </h1>
 </div>
