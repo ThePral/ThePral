@@ -27,7 +27,7 @@
 
 ### 👀 About Me:
 
-- 🎓 Currently studying **CE** at **NIT**
+- 🎓 Currently studying **CE** at **Noushirvani University of Technology (NIT)**
 - 💻 Interested in **PHP**, **Javascript**, **HTML**, and **CSS**
 - 👨🏻‍💻 A **full-stack** developer
 - 👨🏻‍🏫 An **English** instructor
